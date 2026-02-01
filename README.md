@@ -35,7 +35,7 @@ You should have metamask, and Ganache setup already (for testing).
 
 Cloning the repo
 ```
-$ git clone https://github.com/utkarsh914/fake-product-prevention-using-blockchain.git
+$ git clone https://github.com/snehitalchewar/fake-product-prevention-using-blockchain.git
 ```
 Installing the dependencies
 ```
